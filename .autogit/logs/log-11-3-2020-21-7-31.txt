@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sat Apr 11 2020 21:07:31 GMT+0900 (日本標準時)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-11-3-2020-20-37-25.txt
+
+
+Deleted files:
+
+
+Renamed files:
